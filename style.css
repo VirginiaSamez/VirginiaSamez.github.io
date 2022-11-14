@@ -1,0 +1,13 @@
+p,ul {color:black; font-family:Georgia;}
+
+h1 {color:black; font-family:Georgia; font-size: 30px;}
+
+ul#menu li {display: inline; font-family:Georgia;}
+
+div {text-align:left; font-family:Georgia;}
+
+body {margin: 50px auto; width: 65%;}
+
+p {text-align: justify}
+
+table, th, td {border: 1px solid black;}
